@@ -1,0 +1,2 @@
+"debug"
+whenChangedDo: aBlockClosure 
